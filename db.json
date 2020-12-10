@@ -1,17 +1,16 @@
- {rooms: [
-        { roomnum: 100, x: 500, y: 60, clear: true, full: false, type: "DT" },
-        { roomnum: 101, x: 450, y: 165, clear: false, full: false, type: "DD" },
-        { roomnum: 102, x: 555, y: 165, clear: true, full: true, type: "DD" },
-        { roomnum: 103, x: 350, y: 375, clear: false, full: true, type: "PT" },
-        { roomnum: 104, x: 665, y: 375, clear: true, full: true, type: "DT" },
-        { roomnum: 105, x: 300, y: 480, clear: true, full: true, type: "DT" },
-        { roomnum: 106, x: 405, y: 480, clear: false, full: false, type: "DT" },
-        { roomnum: 107, x: 615, y: 480, clear: true, full: false, type: "DD" },
-        { roomnum: 108, x: 720, y: 480, clear: false, full: false, type: "PT" },
-        { roomnum: 109, x: 400, y: 270, clear: true, full: false, type: "DT" },
-        { roomnum: 110, x: 505, y: 270, clear: true, full: true, type: "PT" },
-        { roomnum: 111, x: 610, y: 270, clear: true, full: false, type: "PT" },
-        { roomnum: 112, x: 455, y: 375, clear: false, full: true, type: "DD" },
-        { roomnum: 113, x: 560, y: 375, clear: true, full: true, type: "DT" },
-        { roomnum: 114, x: 510, y: 480, clear: true, full: true, type: "PT" }
+ {"room": [
+        { "roomnum": 100, "clear": true, "full": false, "type": "Room 1" },
+        { "roomnum": 101, "clear": true, "full": false, "type": "DT2" },
+        { "roomnum": 102, "clear": true, "full": false, "type": "DT 3" },
+        { "roomnum": 103, "clear": true, "full": false, "type": "DT  4" },
+        { "roomnum": 104, "clear": true, "full": false, "type": "DT   5" },
+        { "roomnum": 105, "clear": true, "full": false, "type": "DT    6" },
+        { "roomnum": 106, "clear": true, "full": false, "type": "DT     7" },
+        { "roomnum": 107, "clear": true, "full": false, "type": "DT      8" },
+        { "roomnum": 108, "clear": true, "full": false, "type": "DT       9" },
+        { "roomnum": 109, "clear": true, "full": false, "type": "DT        10" },
+        { "roomnum": 110, "clear": true, "full": false, "type": "DT         11" },
+        { "roomnum": 111, "clear": true, "full": false, "type": "DT          12" },
+        { "roomnum": 112, "clear": true, "full": false, "type": "DT           13" },
+        { "roomnum": 1111, "clear": true, "full": false, "type": "DT           14" }
       ]}
